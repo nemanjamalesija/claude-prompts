@@ -40,7 +40,7 @@ checklist. Hand back for me to run locally and confirm it renders.
 
 
 Example invocation:
-ultracode TRANS-2672-target-architecture.md
+ultracode spec.md
   read order: target-architecture -> gap-and-plan -> current-architecture
-  target: presentation-backend/src/pages/user-registration/
+  target: local-modules/target-page/
   mode: reference
