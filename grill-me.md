@@ -1,4 +1,4 @@
-Copy pasted from Matt Pocock's skils repo: https://github.com/mattpocock/skills
+Copied from Matt Pocock's skils repo: https://github.com/mattpocock/skills
 
 Interview me relentlessly about every aspect of this plan until
 we reach a shared understanding. Walk down each branch of the design
